@@ -13,8 +13,6 @@ My name is Gaurav vijavyergiya. You can call me GV. I am an software engineer fr
 ## Recent creation 
 [Multiclass Image Classification](https://github.com/G-VJ/Multiclass-Image-Classification)
 
-[Face Mask Detection](https://github.com/g-vj/Facemask-detection)
-
 
 
 Open to collaborate on Machine learning and artificial intelligence, Image/Computer vision. 
