@@ -8,13 +8,28 @@ Here are some ideas to get you started:
 
 # Hey Fellas !!
 
+Hi from india. Hope your are hale and healthy!
 
-You can call me GV. I am an software engineer from India working in Nagarro. You can connect to me on [linkedin](https://www.linkedin.com/in/gvj) or drop an gauravvijayvergiy@gmail.com
+
+
+I am an programer who love to learning and buid new products using technology.
+
+Currenlty getting my hands Dirty on machine learning. 
+Some of my recent creations: 
+
+
+You can connect to me on [linkedin](https://www.linkedin.com/in/gvj) or say hi @gauravvijayvergiy@gmail.com
 
 ## Recent creation 
+[Yolo Object Detection](https://github.com/G-VJ/Yolo-object-detection)
 [Multiclass Image Classification](https://github.com/G-VJ/Multiclass-Image-Classification)
+[Facemask Detection](https://github.com/G-VJ/Facemask-detection)
+[Python implimentation of machine learning algorithms](https://github.com/G-VJ/Machine-Learning-Models)
 
 
+[medium](https://medium.com/@g-vj)
 
-Open to collaborate on Machine learning and artificial intelligence, Image/Computer vision. 
+Open for collaboration on Machine learning and artificial intelligence, Image/Computer vision. 
 
+May the force be with you!
+GV
